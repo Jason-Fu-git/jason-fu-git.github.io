@@ -11,54 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Tsinghua University, 2026 (expected). GPA: 3.92/4.0
 
-Work experience
+Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Artificial Intelligence, Computer Graphics, Computational Neuroscience, Computer Network and Quantum Computing
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Skills and Strengths
+======
+* Proficiency in C, C++, Python, Java, Javascript, Verilog and LaTeX
+* Fluency in English. (Got 600+ in CET-6)
+* Strong problem-solving skills, good at teamwork and communication.
+* Strong self-learning ability and strong sense of responsibility.
+* Highly motivated and passionate about researches in computer science.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Achievements and Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2023.10: Tsinghua University Comprehensive Excellence Scholarship
+* 2023.11: Second prize in <i>China National College Students Mathematical Contest in Modeling</i>
+* 2024.10: Tsinghua University Comprehensive Excellence Scholarship
+
+[//]: # (Publications)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.publications reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks reversed %})
+
+[//]: # (    {% include archive-single-talk-cv.html  %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* One of the initiators of "Jing Hong Zhu Meng" project that aims to help high school students to learn more
+about university life and majors.
+* Member of three social work teams in Tsinghua University, like the Student Union of my department.
