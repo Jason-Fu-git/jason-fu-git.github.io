@@ -32,37 +32,8 @@ Achievements and Awards
 * 2023.11: Second prize in <i>China National College Students Mathematical Contest in Modeling</i>
 * 2024.10: Tsinghua University Comprehensive Excellence Scholarship
 
-[//]: # (Publications)
 
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.publications reversed %})
-
-[//]: # (    {% include archive-single-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (  )
-[//]: # (Talks)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.talks reversed %})
-
-[//]: # (    {% include archive-single-talk-cv.html  %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (  )
-[//]: # (Teaching)
-
-[//]: # (======)
-
-[//]: # (  <ul>{% for post in site.teaching reversed %})
-
-[//]: # (    {% include archive-single-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
+[//]: # (To add a publication, please refer to the history of this file.)
   
 Service and leadership
 ======
